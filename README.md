@@ -35,13 +35,14 @@ Customizations here literally means that you need to cut into the source code an
 the changes you are quite looking for.
 __________________________________________________________________________________________
 
-1. Changes in the position of the "Basic Details"
+### [1] Changes in the position of the "Basic Details"
 
 S0: Go to file: ".\image_module.py" \
 S1: Go to the class "write_text" (You can search this upon opening the editor) \
 &emsp;S1.1: Here please edit the fields __p_xxx = (x_coordinate,y_coordinate) \
+__________________________________________________________________________________________
 
-2. Add new columns or new data field inside the software output
+### [2] Add new columns or new data field inside the software output
 
 S0: Go to file: ".\image_module.py" \
 S1: Go to the class "write_text" (You can search this upon opening the editor) \
