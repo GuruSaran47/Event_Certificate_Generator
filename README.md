@@ -37,10 +37,9 @@ ________________________________________________________________________________
 
 1. Changes in the position of the "Basic Details"
 
-S0: Go to file: ".\image_module.py"
-S1: Go to the class "write_text" (You can search this upon opening the editor)
-	S1.1: Here please edit the fields __p_xxx = (x_coordinate,y_coordinate)
-image.text(self.__p_add1,print_add1,font=font,fill=(0,0,0))
+S0: Go to file: ".\image_module.py" \
+S1: Go to the class "write_text" (You can search this upon opening the editor) \
+	S1.1: Here please edit the fields __p_xxx = (x_coordinate,y_coordinate) \
 
 2. Add new columns or new data field inside the software output
 
