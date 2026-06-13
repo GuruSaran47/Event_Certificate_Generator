@@ -1,10 +1,10 @@
 # Event_Certificate_Generator
 This is the software is for printing the data collected on the gforms or any forms application on a certificate template.
-##########################################################################################
-Intended Audience: College clubs or Instructors who are looking for generating many certs
+
+## Intended Audience: College clubs or Instructors who are looking for generating many certs
 of your event at a time.
 ===========================================================================================
-Purpose of the Tool: One execution to generate certificates, based on the input template.
+### Purpose of the Tool: One execution to generate certificates, based on the input template.
 ===========================================================================================
 ------------------------------------------------------------------------------------------
 How to use?
@@ -17,7 +17,7 @@ In the current version, we support addition of Basic Details to the certificate 
 
 [Note]: The above mentioned fields remain the same in case 
 ------------------------------------------------------------------------------------------
-How to give the input?
+#### How to give the input?
 ------------------------------------------------------------------------------------------
 1. The application accepts the input in-terms of the .csv file.
 2. From which ever google form you collect the person data, Pls organize it into a CSV as 
@@ -29,7 +29,7 @@ example in the directory ".\template.jpeg"
 [Note]: For specific adjustment in the text follow NEXT SECTION.
 
 ------------------------------------------------------------------------------------------
-How to customise the output?
+#### How to customise the output?
 ------------------------------------------------------------------------------------------
 Customizations here literally means that you need to cut into the source code and do 
 the changes you are quite looking for.
@@ -57,9 +57,9 @@ S1: Go to the class "write_text" (You can search this upon opening the editor)
 __________________________________________________________________________________________
 ------------------------------------------------------------------------------------------
 ==========================================================================================
-Message from Developer:
+## Message from Developer:
 
-I regret that I couldn't develop proper UI, due to constraint of time which we had. I hope 
+### I regret that I couldn't develop proper UI, due to constraint of time which we had. I hope 
 to make it one day.
 
 If you have anything to contribute, pls feel free.
